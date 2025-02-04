@@ -6,6 +6,9 @@
 + 시간 : 매주 목요일 22시 
 + 장소 : ZEP
 
+![Monosnap hanghae99_plus_BE7 | 쉽고 재미있는 메타버스 ZEP 2025-02-05 00-08-21](https://github.com/user-attachments/assets/a5fec58a-9f28-464a-b447-1efe2b8100ec)
+
+
 ## 개인 스터디 방식
 + 팀 스터디 진행 전에 강의를 수강하고 배운 내용을 마크다운 형식으로 정리합니다.
 + 정리한 내용 및 작성한 코드를 팀 스터디 전에 PR (`main` 브랜치) 요청합니다.
@@ -13,7 +16,10 @@
   + 브랜치 : `{주차}/{유저명}` (ex : `week1/discphy`) 
   + 정리한 내용 : `docs/{주차}/{유저명}.md` 마크 다운 작성 (ex : `docs/week1/discphy.md`)
   + 작성 코드 (자유 형식) : `playground/{주차}/{유저명}/~` 코틀린 코드 작성 (ex : `docs/week1/discphy/HelloWorld.kt`)
-  + 머지 : `Squash Commit`으로 머지 
+  + 머지 : `Squash Commit`으로 머지
+    
+    ![github-close-pull-request-with-squash](https://github.com/user-attachments/assets/3c9be1d4-494c-460f-a841-ce360f729d54)
+
 + 질문, 논의는 [이슈](https://github.com/hanghae-plus-backend-8/prestudy-language-kotlin/issues)를 생성해 기록합니다.  
 
 ## 팀 스터디 방식 
